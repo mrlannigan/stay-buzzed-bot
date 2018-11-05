@@ -1,0 +1,22 @@
+{
+  "name": "stay-buzzed-bot",
+  "version": "1.0.0",
+  "description": "Get lit, fam!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrlannigan/stay-buzzed-bot.git"
+  },
+  "author": "MajorKilo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrlannigan/stay-buzzed-bot/issues"
+  },
+  "homepage": "https://github.com/mrlannigan/stay-buzzed-bot#readme",
+  "dependencies": {
+    "twitch-bot": "^1.2.5"
+  }
+}
